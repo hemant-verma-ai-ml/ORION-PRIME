@@ -1,0 +1,22 @@
+{
+  "trade_id": "TEST-ARCHIVE-001",
+  "asset": "GOLD",
+  "action": "BUY",
+  "entry": 4683.5,
+  "stop_loss": 4640.0,
+  "target_1": 4723.0,
+  "target_2": 4763.0,
+  "target_3": 4803.0,
+  "confidence": 0.87,
+  "regime": "MILDLY_BULLISH",
+  "rr_ratio": 1.8,
+  "composite_score": 24.5,
+  "valid_till": "2026-05-06T22:00:00+00:00",
+  "tier": "institutional",
+  "engine_count": 28,
+  "generated_at": "2026-05-06T16:26:44.516062+00:00",
+  "archived_at": "2026-05-06T16:26:44.516086+00:00",
+  "platform": "ruvelta.com",
+  "telegram": "@RuveltaMetals",
+  "disclaimer": "For informational purposes only. Not financial advice."
+}
