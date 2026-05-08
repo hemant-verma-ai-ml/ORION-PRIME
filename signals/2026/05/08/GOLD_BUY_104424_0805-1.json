@@ -1,0 +1,22 @@
+{
+  "trade_id": "0805-1",
+  "asset": "GOLD",
+  "action": "BUY",
+  "entry": 4727.200195,
+  "stop_loss": 4683.9334,
+  "target_1": 4784.8892,
+  "target_2": 4813.7337,
+  "target_3": 4842.5782,
+  "confidence": 0.7271,
+  "regime": "MILDLY_BULLISH",
+  "rr_ratio": 1.33,
+  "composite_score": 19.33,
+  "valid_till": "2026-05-08T11:14:22.167077+00:00",
+  "tier": "institutional",
+  "engine_count": 29,
+  "generated_at": "2026-05-08T10:44:22.167097+00:00",
+  "archived_at": "2026-05-08T10:44:24.575590+00:00",
+  "platform": "ruvelta.com",
+  "telegram": "@RuveltaMetals",
+  "disclaimer": "For informational purposes only. Not financial advice."
+}
