@@ -1,0 +1,22 @@
+{
+  "trade_id": "0805-2",
+  "asset": "SILVER",
+  "action": "BUY",
+  "entry": 80.973999,
+  "stop_loss": 79.3621,
+  "target_1": 83.1232,
+  "target_2": 84.1978,
+  "target_3": 85.2724,
+  "confidence": 0.7271,
+  "regime": "MILDLY_BULLISH",
+  "rr_ratio": 1.33,
+  "composite_score": 19.33,
+  "valid_till": "2026-05-08T11:15:08.243843+00:00",
+  "tier": "institutional",
+  "engine_count": 29,
+  "generated_at": "2026-05-08T10:45:08.243862+00:00",
+  "archived_at": "2026-05-08T10:45:14.689125+00:00",
+  "platform": "ruvelta.com",
+  "telegram": "@RuveltaMetals",
+  "disclaimer": "For informational purposes only. Not financial advice."
+}
